@@ -1,7 +1,3 @@
 {
-  "extends": "./.nitro/types/tsconfig.json",
-  "compilerOptions": {
-    "verbatimModuleSyntax": true
-  },
-  "include": ["./.vitepress/"]
+  "extends": "./.nitro/types/tsconfig.json"
 }
